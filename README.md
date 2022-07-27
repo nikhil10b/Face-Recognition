@@ -6,8 +6,8 @@ Face detection has gained a lot of attention due to its real-time applications. 
 
 OpenCV contains many pre-trained classifiers for face, eyes, smile etc.
 
-In this project I have used the haarcascade classifier which uses it's haar features to detect face. image
-These are some Haar features which are similar to convolutional kernals(used in convolutional neural network).
+In this project I have used the haarcascade classifier which uses it's haar features to detect face. 
+The edge feature, line feature, and four rectangle features are some Haar features which are similar to convolutional kernals(used in convolutional neural network).
 
 Face Recognition
 Using the above method the data of the detected face gets stored in the data folder in the same directory as that of the dectection code.Then one can use multiple Classification algorthms to recognize and predict the name of the user.
